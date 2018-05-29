@@ -1,2 +1,5 @@
 # mnis-tensorflow-lenet5
-Using a misit data set to train a simple lrnet5 to perform 0-9 digit recognition
+1、运行环境 Ubuntu 16.0.4 python2.7
+2、先运行mnist_lenet5_backward.py完成对lenet5网络的训练
+3、运行mnist_lenet5_test.py查看验证机准确率
+4、运行mnist_lenet5_app.py输入你自己的数字图片查看识别效果
